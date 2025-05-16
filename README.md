@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [Your Name]
 
-![Pixel Art Banner](./pictures/banner.png)
+![Pixel Art Banner](./Pictures/banner.png)
 
 ---
 
