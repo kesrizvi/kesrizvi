@@ -1,14 +1,59 @@
-<h1 align="center">Hi, I'm Kesa Rizvi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- README.md -->
 
-- 👨‍💻 All of my projects are available at [kesarizvi.profile](kesarizvi.profile)
+<h1 align="center">🎮 Welcome, I'm [Your Name] 👾</h1>
 
-- 📫 How to reach me **kesazehrar@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kesarizvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kesarizvi" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://pixelarticons.com/icons/pixel-heart.svg" width="25" /> Passionate about code, creativity, and colorful pixels <img src="https://pixelarticons.com/icons/pixel-star.svg" width="25" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+### 💡 About Me
+
+🌟 I'm a developer who loves mixing design and functionality  
+🎨 I have a strong interest in UX, animation, and all things digital  
+📚 Always learning something new — from code to creative media  
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://ceo-potato.itch.io/programming-languages-pixel-icons" alt="HTML" width="32" height="32" />
+  <img src="https://ceo-potato.itch.io/programming-languages-pixel-icons" alt="CSS" width="32" height="32" />
+  <img src="https://ceo-potato.itch.io/programming-languages-pixel-icons" alt="JavaScript" width="32" height="32" />
+  <img src="https://ceo-potato.itch.io/programming-languages-pixel-icons" alt="Python" width="32" height="32" />
+  <img src="https://ceo-potato.itch.io/programming-languages-pixel-icons" alt="C" width="32" height="32" />
+  <img src="https://ceo-potato.itch.io/programming-languages-pixel-icons" alt="Java" width="32" height="32" />
+</p>
+
+---
+
+### 🖥️ My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Portfolio
+
+Check out my website: [yourwebsite.com](https://yourwebsite.com)
+
+---
+
+### 🎨 Aesthetic Vibes
+
+🧃 Pastel pixels  
+💾 Retro designs  
+🕹️ Game-inspired interfaces  
+🌈 Always adding color to code  
+
+---
+
+### 💌 Let's Connect
+
+Feel free to reach out or explore my work ✨  
