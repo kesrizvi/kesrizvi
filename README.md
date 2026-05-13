@@ -23,7 +23,7 @@
 ### aside from tech! ✧
 📚 reading <br>
 🎨 illustrating + painting  
-🪡 crafting things by hand (embroidery, felting, printmaking)
+🪡 crafting things by hand (embroidery, felting, printmaking/block printing)
 
 ---
 
