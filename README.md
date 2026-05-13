@@ -37,4 +37,4 @@
 
 ### find me ✧
 🔗 [Linkedin](https://www.linkedin.com/in/kesarizvi/)
-🔗 [CTS Portfolio](https://canva.link/v4j1yxjszymf7sv)
+🔗 [CTS Portfolio](https://kesarizvi.my.canva.site/)
