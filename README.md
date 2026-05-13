@@ -2,7 +2,7 @@
   ── ✦ ──  kesa rizvi  ── ✦ ──
 </p>
 <p align="center" style="font-size:18px; color:#ff5fa2;">
-   💻 ✦
+  ✦ ✦
 </p>
 
 ---
@@ -22,17 +22,19 @@
 
 ### aside from tech! ✧
 📚 reading
+
 🎨 illustrating + painting  
-✂️ crafting things by hand (embroidery, felting, printmaking)
+🪡 crafting things by hand (embroidery, felting, printmaking)
 
 ---
 
 ### toolbox ✧
-- python • java • javascript • c • c++ • c# • 
-- pytorch • sklearn  
-- git • docker  
+- python • java • javascript • c • c++ • c# • html5 • css3 • three.js • react • framer • figma • adobe xd • canva 
+- pytorch • pandas • numPy
+- git • docker
+- arduino • raspberry pi •
 
 ---
 
 ### find me ✧
-🔗 your links here  
+🔗 [Linkedin](https://www.linkedin.com/in/kesarizvi/)
