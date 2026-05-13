@@ -9,7 +9,7 @@
 
 ### what i'm up to ✧
 - studying **computer science & artificial intelligence** @ the **university of guelph**
-- minoring in **culture & technology studies** -- digital humanities, publishing, data analysis w/ python, keywords, digital analysis of culture & technology.
+- minoring in **culture & technology studies** -- digital humanities, publishing, data analysis w/ python, keywords, cultural & technelogical history of south asia analyis, digital analysis of culture & technology.
 - exploring ml, creative tech, etc.
 - building small side projects whenever inspiration hits
 
