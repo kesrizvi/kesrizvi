@@ -31,7 +31,7 @@
 - python • java • javascript • c • c++ • c# • html5 • css3 • three.js • react • framer • figma • adobe xd • canva 
 - pytorch • pandas • numPy
 - git • docker
-- arduino • raspberry pi •
+- arduino • raspberry pi
 
 ---
 
