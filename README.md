@@ -9,7 +9,7 @@
 
 ### what i'm up to ✧
 - studying **computer science & artificial intelligence** @ the **university of guelph**
-- minoring in **culture & technology studies**
+- minoring in **culture & technology studies** -- digital humanities, publishing, data analysis w/ python, keywords, digital analysis of culture & technology.
 - exploring ml, creative tech, etc.
 - building small side projects whenever inspiration hits
 
@@ -37,3 +37,4 @@
 
 ### find me ✧
 🔗 [Linkedin](https://www.linkedin.com/in/kesarizvi/)
+🔗 [CTS Portfolio](https://canva.link/v4j1yxjszymf7sv)
