@@ -8,7 +8,7 @@
 ---
 
 ### what i'm up to ✧
-- studying **computer science & artificial intelligence**
+- studying **computer science & artificial intelligence** @ the **university of guelph**
 - minoring in **culture & technology studies**
 - exploring ml, creative tech, etc.
 - building small side projects whenever inspiration hits
