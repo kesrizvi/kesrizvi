@@ -10,28 +10,24 @@
 
 ### what i'm up to ✧
 - studying **computer science & artificial intelligence**
-- exploring ml, creative tech, and simple tools that make life nicer
+- exploring ml, creative tech, etc.
 - building small side projects whenever inspiration hits
 
 ### experience ✧
-- software intern @ **Siemens**
-- student developer on academic + personal projects
+- process & technology intern @ **Siemens**
+- developing academic + personal projects
 
 ---
 
-### little joys ✧
-📚 reading (from tech essays to magical fiction)  
+### aside from tech! ✧
+📚 reading
 🎨 illustrating + painting  
-✂️ crafting things by hand  
-🌿 decorating cozy spaces  
-⭐ soft purple / pink / sage palettes  
-✨ adding a bit of whimsy to everything  
+✂️ crafting things by hand (embroidery, felting, printmaking)
 
 ---
 
 ### toolbox ✧
-(soft muted colors recommended for these badges)
-- python • js/ts • react • node  
+- python • java • javascript • c • c++ • c# • 
 - pytorch • sklearn  
 - git • docker  
 
