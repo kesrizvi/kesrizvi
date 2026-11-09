@@ -8,15 +8,16 @@
 ---
 
 ### what i'm up to ✧
-- studying **computer science & artificial intelligence** @ the **university of guelph**
-- minoring in **culture & technology studies** -- digital humanities, publishing, data analysis w/ python, keywords, cultural & technelogical history of south asia analyis, digital analysis of culture & technology.
+- studying **Computer Science & Artificial Intelligence** @ the **University of Guelph**
+- minoring in **culture & technology studies** -- digital humanities, publishing, data analysis w/ python, keywords, digital analysis of culture & technology.
 - exploring ml, creative tech, etc.
-- building small side projects whenever inspiration hits
+- building small side projects - - to be updated on github
 
 ### experience ✧
-- process & technology intern @ **Siemens**
+- current events coordinator @ **GDG Guelph**
+- prev process & technology intern @ **Siemens**
 - developing academic + personal projects
-- hackathons
+- event volunteer @ **Hack The North**
 
 ---
 
