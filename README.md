@@ -38,4 +38,4 @@
 
 ### find me ✧
 🔗 [Linkedin](https://www.linkedin.com/in/kesarizvi/)
-🔗 [Culture & Technology Portfolio]((https://cts-dh-kesa.vercel.app/index.html)/)
+🔗 [Culture & Technology Portfolio](https://cts-dh-kesa.vercel.app/index.html)/)
