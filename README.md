@@ -14,7 +14,7 @@
 - building small side projects - - to be updated on github
 
 ### experience ✧
-- current events coordinator @ **GDG Guelph**
+- current events coordinator @ **Google Developer Group Guelph**
 - prev process & technology intern @ **Siemens**
 - developing academic + personal projects
 - event volunteer @ **Hack The North**
